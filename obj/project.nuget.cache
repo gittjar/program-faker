@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iQmIOrXf3ZgumZwReW8Jfe3Ga+Yrio/8+rai3lFxyuEhMueynNjC/v7WTt/VEvQ+fZcg5x0n82p/7fKpxLKO0g==",
+  "success": true,
+  "projectFilePath": "/Users/s2200692/C-harjoitukset/tehtava-nuget-faker/tehtava-nuget-faker.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2200692/.nuget/packages/faker.net/2.0.154/faker.net.2.0.154.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/s2200692/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
