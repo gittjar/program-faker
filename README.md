@@ -1,4 +1,4 @@
-# Program Faker \
+# Program Faker
 
 TEHTÄVÄNANTO: \
 Tee C# ohjelma, joka tulostaa konsoliin 3:n kuvitteellisen henkilön tiedot: \
